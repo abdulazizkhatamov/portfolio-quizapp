@@ -1,7 +1,8 @@
 import { Share2Icon } from 'lucide-react'
 import React, { useState } from 'react'
 
-const shareUrl = 'https://DOMAIN.COM'
+const shareUrl =
+  'https://portfolio-quizapp-git-main-abdulazizkhfs-projects.vercel.app/'
 const shareText = 'Check out this quiz app — it rocks!'
 
 const ShareButton: React.FC = () => {
